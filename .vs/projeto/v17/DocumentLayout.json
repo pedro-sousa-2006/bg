@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\views\\usuario\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\usuario\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\views\\shared\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\shared\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|c:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D87B8127-C29F-4354-BD5E-B59E8EB61685}|projeto\\projeto.csproj|solutionrelative:projeto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usuarioController.cs",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Controllers\\usuarioController.cs",
+              "RelativeDocumentMoniker": "projeto\\Controllers\\usuarioController.cs",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Controllers\\usuarioController.cs",
+              "RelativeToolTip": "projeto\\Controllers\\usuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T22:49:57.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T21:49:56.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "projeto\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T22:10:43.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\usuario\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\usuario\\_ViewStart.cshtml",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\usuario\\_ViewStart.cshtml",
+              "RelativeToolTip": "projeto\\Views\\usuario\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T23:20:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "projeto\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "projeto\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T21:48:51.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T22:42:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\usuario\\Index.cshtml",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\usuario\\Index.cshtml",
+              "RelativeToolTip": "projeto\\Views\\usuario\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T22:50:41.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "usuarioViewModel.cs",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Models\\usuarioViewModel.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\usuarioViewModel.cs",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Models\\usuarioViewModel.cs",
+              "RelativeToolTip": "projeto\\Models\\usuarioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T00:06:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\appsettings.json",
+              "RelativeDocumentMoniker": "projeto\\appsettings.json",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\appsettings.json",
+              "RelativeToolTip": "projeto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-01T22:08:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Program.cs",
+              "RelativeDocumentMoniker": "projeto\\Program.cs",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Program.cs",
+              "RelativeToolTip": "projeto\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T22:08:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_PublicLayout.cshtml",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\Shared\\_PublicLayout.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Shared\\_PublicLayout.cshtml",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\Shared\\_PublicLayout.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Shared\\_PublicLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T23:19:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "projeto\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T23:02:58.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "projeto\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T22:06:13.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "projeto\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\arquivo_do_pedro\\microsoftvisual studio code\\projeto\\projeto\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "projeto\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-01T22:45:40.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

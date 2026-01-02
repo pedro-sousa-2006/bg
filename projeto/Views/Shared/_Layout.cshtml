@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - English Now</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/projeto.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header class="bg-primary border-bottom mb-4">
+        <div class="container">
+            <div class="d-flex flex-wrap align-items-start justify-content-star py-3">
+
+                <!-- Logo -->
+                <a href="/" class="d-flex align-items-center text-white text-decoration-none">
+                    <svg class="bi me-2" width="40" height="32" aria-hidden="true">
+                        <use xlink:href="#bootstrap"></use>
+                    </svg>
+                </a>
+
+                <!-- Menu -->
+                <ul class="nav d-flex gap-5">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link px-3 text-white fw-bold">English Now</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link px-2 text-white">Alunos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link px-2 text-white">Professores</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link px-2 text-white">Administradores</a>
+                    </li>
+                </ul>
+
+                <!-- Botão sair -->
+                <form action="/" method="post">
+                    <button type="submit" class="btn btn-outline-light">
+                        Sair
+                    </button>
+                </form>
+
+            </div>
+        </div>
+    </header>
+
+    <!-- CONTEÚDO -->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="bg-primary text-white mt-4">
+        <div class="container">
+            <div class="d-flex flex-wrap justify-content-start  py-3">
+
+                <ul class="d-flex gap-5 m-10">
+                    <li class="nav-item text-white">
+                        © 2025
+                    </li>
+                </ul>
+
+                <ul class="nav d-flex gap-1">
+          
+                    <li class="nav-item">
+                        <a href="#" class="nav-link px-2 text-white">English Now</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link px-2 text-white">Alunos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link px-2 text-white">Professores</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link px-2 text-white">Administradores</a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

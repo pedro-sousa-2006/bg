@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+    <form asp-action="Login" asp-controller="Usuario"
+          method="post"
+          class="p-4 border rounded shadow text-white"
+          style="width: 100%; max-width: 400px; background-color: #6c757d;">
+
+        <!-- Ícone -->
+        <div class="text-center mb-3">
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 height="40"
+                 viewBox="0 -960 960 960"
+                 width="40"
+                 fill="#ffffff">
+                <path d="M700-520v-48l-30 30-28-28 58-58v-36h-36l-58 58-28-28 30-30h-48v-40h48l-30-30 28-28 58 58h36v-36l-58-58 28-28 30 30v-48h40v48l30-30 28 28-58 58v36h36l58-58 28 28-30 30h48v40h-48l30 30-28 28-58-58h-36v36l58 58-28 28-30-30v48h-40Zm-56 217-44-44v187H200v-188l-44 44-56-56 300-300 300 300-56 57Z" />
+            </svg>
+        </div>
+
+        <h1 class="text-center mb-4">Login</h1>
+
+        <!-- Usuário -->
+        <div class="mb-3">
+            <label for="usuario" class="form-label">Usuário</label>
+            <input type="text"
+                   class="form-control"
+                   id="usuario"
+                   name="usuario"
+                   required />
+        </div>
+
+        <!-- Senha -->
+        <div class="mb-3">
+            <label for="senha" class="form-label">Senha</label>
+            <input type="password"
+                   class="form-control"
+                   id="senha"
+                   name="senha"
+                   required />
+        </div>
+
+        <!-- Botão -->
+        <div class="d-flex justify-content-center mt-4">
+            <button type="submit" class="btn btn-primary w-100">
+                Entrar
+            </button>
+        </div>
+
+    </form>
+</div>
