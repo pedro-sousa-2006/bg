@@ -95,3 +95,4 @@ C:\arquivo_do_pedro\microsoftvisual studio code\projeto\projeto\obj\Debug\net9.0
 C:\arquivo_do_pedro\microsoftvisual studio code\projeto\projeto\obj\Debug\net9.0\projeto.genruntimeconfig.cache
 C:\arquivo_do_pedro\microsoftvisual studio code\projeto\projeto\obj\Debug\net9.0\ref\projeto.dll
 C:\arquivo_do_pedro\microsoftvisual studio code\projeto\projeto\obj\Debug\net9.0\compressed\kijxouxoqe-jijjdayyns.gz
+C:\arquivo_do_pedro\microsoftvisual studio code\projeto\projeto\obj\Debug\net9.0\projeto.sourcelink.json
